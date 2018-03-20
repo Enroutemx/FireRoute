@@ -87,3 +87,6 @@ xcuserdata
 *.moved-aside
 DerivedData
 *.xcuserstate
+
+# Firebase Config
+/config/settings.js
